@@ -26,97 +26,97 @@ Locations: Register locations.
 Facilities:  A feature where list of facilities are added so that hotel manager can add them directly into the hotel facilities list column based on the services the hotel provides. 
 
 # System Architecture: 
-
 The System architecture explains the technologies used in the project and pages required in the respective technology and their requirement. 
-## Frontend Technology: HTML, CSS, JavaScript (React.js) 
-## Backend Technology: Spring Boot 
-## Database Technology: MySQL 
+Frontend Technology: HTML, CSS, JavaScript (React.js) 
+Backend Technology: Spring Boot 
+Database Technology: MySQL 
 
 # Functional  
-# User Registration and Authentication 
+1. User Registration and Authentication 
 Registration: Capture user details and validate inputs. 
 Login: Authenticate users and maintain sessions. 
 Profile Management: Allow users to update their information and view booking history. 
 
-# Hotel Listings Management 
+2. Hotel Listings Management 
 Hotel Registration: Allow hotel managers to register and manage hotels. 
 Room Management: CRUD operations for room types and details. 
 
-# Room Availability and Booking 
+3. Room Availability and Booking 
 Search Functionality: Enable customers to search for hotels with filters. 
 Booking Process: Handle room selection, date selection, cost calculation, and confirmation. 
 Payment Integration: Integrate with payment gateways for booking payments. 
 
-# Booking Management 
+4. Booking Management 
 Booking Modification: Allow customers to modify or cancel bookings. 
 Dashboard for Hotel Managers: Provide an overview of bookings and room status. 
 
-# Notifications and Alerts 
+5. Notifications and Alerts 
 Shows popup notifications and alerts for bookings, cancellations, and updates. 
 
 # Final Project Images: 
 
-# User Interface: 
+User Interface: 
+![userinterface](https://github.com/user-attachments/assets/47fde3d5-371c-43a2-a7ea-4a37cd668dde)
 
-# Register Form for users: 
+Register Form for users: 
 
-# Login from for users: 
+Login from for users: 
 
-# Customer Interface: 
+Customer Interface: 
 
-# Customer Profile Tab: 
+Customer Profile Tab: 
 
-# Customers Profile edit feature: 
+Customers Profile edit feature: 
 
-# Customer Booking Tab: 
+Customer Booking Tab: 
 
-# Booking the Room and popup notification for its approval: 
+Booking the Room and popup notification for its approval: 
 
-# Customer has a feature to cancel the hotel after booking: 
+Customer has a feature to cancel the hotel after booking: 
 
-# Customer interface after room gets approved by manager and can also pay and cancel the booked room : 
+Customer interface after room gets approved by manager and can also pay and cancel the booked room : 
 
-# Customer payment interface and its notification: 
+Customer payment interface and its notification: 
 
-# Popup notification after paying the bill: 
+Popup notification after paying the bill: 
 
-# If a customer tries to book and existing room and gets a popup notification: 
+If a customer tries to book and existing room and gets a popup notification: 
 
-# Fetching hotels for all the locations: 
+Fetching hotels for all the locations: 
 
-# Search implementation: 
+Search implementation: 
 
-# No data is found based on search: 
+No data is found based on search: 
 
-# Customer can write the review for the hotel he visited: 
+Customer can write the review for the hotel he visited: 
 
-# After writing the review: 
+After writing the review: 
 
-# Respective hotel manager interface for manage the bookings: 
+Respective hotel manager interface for manage the bookings: 
 
-# Hotel manager approving the room: 
+Hotel manager approving the room: 
 
-# Hotel manager after approving the room: 
+Hotel manager after approving the room: 
 
-# After manager approving the room and customer pays, the bill: 
+After manager approving the room and customer pays, the bill: 
 
-# Hotel Manager, Admin Interface: 
+Hotel Manager, Admin Interface: 
 
-# Hotel Manager registration before adding hotel: 
+Hotel Manager registration before adding hotel: 
 
-# Add location feature: 
+Add location feature: 
 
-# Before adding the location: 
+Before adding the location: 
 
-# Location adding popup notification: 
+Location adding popup notification: 
 
-# After adding the location: 
+After adding the location: 
 
-# Add facilities option: 
+Add facilities option: 
  
-# Adding hotel interface: 
+Adding hotel interface: 
 
-# View all bookings option with scroll down feature: 
+View all bookings option with scroll down feature: 
 
  
  
