@@ -93,23 +93,20 @@ Customer Booking Tab:
 
 ![customer booking tab3](https://github.com/user-attachments/assets/35f28d02-265e-43e5-98cd-f078d7a5be13)
 
-
 Booking the Room and popup notification for its approval: 
 
 ![customer booking room with popup](https://github.com/user-attachments/assets/3d10e97f-1cd6-4a7b-a885-c8fdb7ce3c8d)
 
-![customer booking tab4](https://github.com/user-attachments/assets/5451e043-756c-46b2-8497-9d234f27b719)
-
 Customer has a feature to cancel the hotel after booking: 
 
 ![customer booking tab4](https://github.com/user-attachments/assets/4bf659fb-81f8-4781-b3a0-6284632c3cee)
-
 
 Customer interface after room gets approved by manager and can also pay and cancel the booked room : 
 
 ![customer booking tab5](https://github.com/user-attachments/assets/528af549-ff58-4fff-afe8-60c3c457ddd4)
 
 Customer payment interface and its notification: 
+
 ![Screenshot 2024-07-16 174633](https://github.com/user-attachments/assets/4eb69ba7-37b8-4f5d-b00b-8f5f85e376af)
 
 Popup notification after paying the bill: 
@@ -191,3 +188,8 @@ View all bookings option with scroll down feature:
 
  ![Screenshot 2024-07-16 204642](https://github.com/user-attachments/assets/8dfb34a1-723e-4d40-b67d-f895044cb373)
 
+# Installation:
+It is were easy process. Clone the repository and run the code in the visual stuido code and check the output in browser. Do required changes what needed.
+
+# Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
