@@ -93,9 +93,6 @@ Customer Booking Tab:
 
 ![customer booking tab3](https://github.com/user-attachments/assets/35f28d02-265e-43e5-98cd-f078d7a5be13)
 
-![customer booking tab4](https://github.com/user-attachments/assets/7876d25d-f9e7-4c80-8894-1d4c9ed0b465)
-
-![customer booking tab5](https://github.com/user-attachments/assets/dc5e5fcb-d422-47e9-a9bb-64b70bf329a9)
 
 Booking the Room and popup notification for its approval: 
 
