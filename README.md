@@ -28,9 +28,9 @@ Facilities:  A feature where list of facilities are added so that hotel manager 
 # System Architecture: 
 
 The System architecture explains the technologies used in the project and pages required in the respective technology and their requirement. 
-# Frontend Technology: HTML, CSS, JavaScript (React.js) 
-# Backend Technology: Spring Boot 
-# Database Technology: MySQL 
+## Frontend Technology: HTML, CSS, JavaScript (React.js) 
+## Backend Technology: Spring Boot 
+## Database Technology: MySQL 
 
 # Functional  
 # User Registration and Authentication 
