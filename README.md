@@ -189,7 +189,11 @@ View all bookings option with scroll down feature:
  ![Screenshot 2024-07-16 204642](https://github.com/user-attachments/assets/8dfb34a1-723e-4d40-b67d-f895044cb373)
 
 # Installation:
-It is were easy process. Clone the repository and run the code in the visual stuido code and check the output in browser. Do required changes what needed.
+It is were easy process. Clone the repository and run the backend file in springboot by adding your database password and run it. Then open frontend zip in visual stuido use the below comands
+1. npm install
+2. npm start
+   The front end file will run and output will appear in browser.
+Make sure you run both backend and frontend files parllely to check the output.
 
 # Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
